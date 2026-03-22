@@ -1,0 +1,5 @@
+{
+  "name": "ورقــــــه",
+  "description": "A beginner-friendly 4-player online card game using Socket.IO and React.",
+  "requestFramePermissions": []
+}
